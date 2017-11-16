@@ -1,2 +1,2 @@
 # outlook_enhancer
-Set of VBA script to enhance outlook 
+As much as i hate VBA, i have to use Outlook for work... so I ended up developing a set of VBA scripts for myself. Hopefully one day i'll manage to use JS for that... 
